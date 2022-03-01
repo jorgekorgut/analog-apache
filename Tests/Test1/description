@@ -1,0 +1,3 @@
+Ce test permet de vérifier la bonne conversion des targets urls en format de texte.
+Plus précisement vérifie la transformation de la cible de la requete http vers une string.
+Si un problème de syntaxe existe il allait être vu ici.

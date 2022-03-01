@@ -1,0 +1,8 @@
+il n'y a pas de fichier de log
+usage : anaLog [OPTION] file
+analyse de log apache
+  -b <number=10>    top des <number> site(s) les plus visité
+  -g <nomfichier>   fichier de sortie au format graphviz (.dot)
+  -e                exclu tout les image, css, js (.jpg,.gif,.png,.css,.js,.ico,.bmp)
+  -t <heure>        seulement pendant l'heure <heure>
+  -h                montre cette aide et ferme

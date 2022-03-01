@@ -1,0 +1,1 @@
+Augmentation du scope du Test1. Ceci permet de tester un fichier log grand pour des failles dans la transformation Log vers String. On remarque aussi la possibilité de pouvoir indiquer une liste de top supérieur à celle qui existe dans le fichier.

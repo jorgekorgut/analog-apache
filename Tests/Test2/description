@@ -1,0 +1,2 @@
+Test la fonctionalite de -b afin de changer la quantite de Top qui est affichee.
+On remarque que l'application elimine les pages moins visitees en laissant juste les pages qui rentrent dans le top.
