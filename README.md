@@ -1,4 +1,4 @@
-#TP04
+# TP04
 
 Afin d'exécuter le programme “analog” le programme doit être construit.
 Pour cela, veuillez vous diriger vers le dossier “bin” et lancer la commande make.
